@@ -10,4 +10,5 @@ public class MomotoSpringJpaProjectApplication {
 		SpringApplication.run(MomotoSpringJpaProjectApplication.class, args);
 	}
 		//Commit Test
+		//Commit Test2
 }
